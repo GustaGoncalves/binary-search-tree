@@ -1,4 +1,4 @@
-# binary-search-tree
+# Binary Search Tree
 A simple search binary search tree with insertion and deletion of elements from it I made during my third semester on college.
 
 As stated in my profile, I really like pointers. A lot of people do not like them and when I mention this fact or looked like I was having a good time on the data structures class, I was given some hilarious looks.
